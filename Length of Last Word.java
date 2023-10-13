@@ -1,6 +1,6 @@
-class Solution {
+class Solution3 {
     public static void main(String[] args) {
-      Solution ins = new Solution();
+      Solution3 ins = new Solution3();
       System.out.println(ins.lengthOfLastWord("Hello World") == 5);
       System.out.println(ins.lengthOfLastWord("   fly me   to   the moon  ") == 4);
       System.out.println(ins.lengthOfLastWord("luffy is still joyboy") == 6);
